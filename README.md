@@ -6,3 +6,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-@TunkShif-blue?style=for-the-badge)](https://twitter.com/tunkshif)
 
 - **Mainly programming with**: Kotlin, Java, Python
+- **Currently learning**: Computer Networking, Spring Framework, Elixir
+- **Intrested in**: both Computer Science and Linguistics
+- **Playing games including**: Minecraft, Terraria, etc.
