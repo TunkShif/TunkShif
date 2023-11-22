@@ -6,7 +6,3 @@
 ### Hi there 👋
 
 [![Blog](https://img.shields.io/badge/Blog-blue?style=for-the-badge)](https://tunkshif.one)
-
-- **I mainly write code in**: Elixir, Kotlin
-- **Intrested in**: both Computer Science and Linguistics
-- **Playing games including**: Minecraft, Terraria, etc.
